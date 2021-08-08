@@ -1,0 +1,21 @@
+body {
+
+    background-image: url("/images/athens.jpg");
+    background-size: cover;
+    background-position-x: center;
+    width: 100vw;
+
+}
+
+.video {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    left:25vw;
+}
+
+a {
+
+    display: flex;
+    float: left;
+}
